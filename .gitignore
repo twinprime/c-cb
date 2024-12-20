@@ -1,0 +1,16 @@
+# MacOS
+.DS_Store
+.issues/
+.local/
+
+# IDEs
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+__pycache__
+
+data/
+db/
